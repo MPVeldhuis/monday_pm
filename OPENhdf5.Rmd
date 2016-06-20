@@ -200,3 +200,4 @@ plotRGB(CIRstack,
         stretch='lin')
 ```
 
+Check
